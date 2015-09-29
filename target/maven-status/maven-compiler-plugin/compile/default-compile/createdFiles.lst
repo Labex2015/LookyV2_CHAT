@@ -1,0 +1,5 @@
+br\feeevale\looky\ChatMessage.class
+br\feeevale\looky\ChatMessageDecoder.class
+br\feeevale\looky\ChatEndpoint.class
+br\feeevale\looky\ChatMessageEncoder.class
+br\feeevale\looky\User.class
